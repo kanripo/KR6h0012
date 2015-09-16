@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 虛空孕菩薩經
+#+DATE: 2015-08-30 20:06:26.434370
+#+PROPERTY: JUAN 0
