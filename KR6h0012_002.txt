@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:26.224058
+#+DATE: 2015-08-30 20:06:27.979911
 #+TITLE: 虛空孕菩薩經
 #+PROPERTY: CBETA_ID T13n0408
 #+PROPERTY: ID KR6h0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 408
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0012_T_002-0672b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《虛空孕菩薩經》卷下¶
+《虛空孕菩薩經》卷下¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -493,4 +492,4 @@
 天龍夜叉乾闥婆阿修羅迦婁羅緊陀羅摩¶
 睺羅伽。梵釋護世四大天王。聞佛所說此妙¶
 經典。一切皆悉歡欣奉行。¶
-《虛空孕菩薩經》卷下
+《處空孕菩薩經》卷下
